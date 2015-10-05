@@ -23,7 +23,7 @@ public class BINARYBIODATA {
            String Email = "EMAIL: paskal889@gmail.com";
            String MobilePhone = "MOBILE PHONE: 019-5663029";
            String Student = "STUDENT: UITM SHAH ALAM";
-           String filepath = "C:/Users/Fortesys/Desktop/AhmadFauzi(B).bin";
+           String filepath = "C:/Users/Fortesys/Desktop/AhmadFauzi.bin";
             byte[] NameBytes = name.getBytes();
             byte[] MatrixBytes = matrix.getBytes();
             byte[] GenderBytes = Gender.getBytes();
